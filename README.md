@@ -45,9 +45,8 @@ Co się tutaj dzieje?
 Logo firmy: 
 ![alt text][logo]
 
-![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/4bbmOdbYooQ/0.jpg)](https://www.youtube.com/watch?v=4bbmOdbYooQ)
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4bbmOdbYooQ
 " target="_blank"><img src="http://img.youtube.com/vi/4bbmOdbYooQ/0.jpg" 
-alt="BANG BANG BANG" width="240" height="180" border="10" /></a>
+alt="BANG BANG BANG" width="480" height="360" border="10" /></a>
