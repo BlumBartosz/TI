@@ -3,8 +3,9 @@
 Tablica 1:
 
 |    |GIT | Aslim | RTY|
-|--|--|--|--|
-|RT| ?|# | 1|
+| -------------------- |
+| -- | -- |   --  | -- |
+| RT |  ? |   #   |  1 |
 
 Ta sama tabelka w html'u:
 
