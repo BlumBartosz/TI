@@ -7,6 +7,14 @@ Tablica 1:
 | -- | -- |   --  | -- |
 | RT |  ? |   #   |  1 |
 
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 Ta sama tabelka w html'u:
 
 <TABLE>
