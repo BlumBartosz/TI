@@ -49,5 +49,5 @@ Logo firmy:
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4bbmOdbYooQ
-" target="_blank"><img src="http://img.youtube.com/vi/4bbmOdbYooQ" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/4bbmOdbYooQ/0.jpg" 
+alt="BANG BANG BANG" width="240" height="180" border="10" /></a>
