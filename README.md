@@ -30,4 +30,4 @@ Co się tutaj dzieje?
 *Co się tutaj dzieje?*
 **Co się tutaj dzieje?**
 
-google nigga (https://www.google.com)
+[google nigga] (https://www.google.com)
