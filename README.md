@@ -1,4 +1,3 @@
-## TI - PROJEKT NA ZALICZENIE
 
 Tablica 1:
 
