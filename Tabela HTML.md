@@ -1,4 +1,4 @@
-###Ta sama tabela w HTML:
+###Tabela w HTML'u:
 
  <table summary="tabela porównawcza">
 				<caption>Porównanie języków znaczników Markdown i AsciiDoc</caption>
