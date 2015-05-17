@@ -1,4 +1,4 @@
-###Porównanie AsciiDoc i Markdown
+###Tabela w Markdown
 
 |FUNKCJA            | GHM (Markdown)                 | AsciiDoc                  |
 |:-----------------:|:------------------------------:|:-------------------------:|
