@@ -1,4 +1,3 @@
-<b>Tabela w AsciiDoc'u</b>
 .Porównanie znaczników Markdown i AsciiDoc
 [width="100%",cols="10,10,10",options="header"]
 |==============================================================================
